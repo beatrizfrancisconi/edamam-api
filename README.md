@@ -1,4 +1,4 @@
-Projeto simples onde consiste em consumir a EDAMAM-API utilizando React.js.
+Projeto simples onde consiste em consumir a Edamam-API utilizando React.js. <br>
 Api utilizada: https://developer.edamam.com/
 
 #Imagens do Projeto
