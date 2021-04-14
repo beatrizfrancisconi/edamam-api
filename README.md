@@ -1,6 +1,10 @@
 Projeto simples onde consiste em consumir a EDAMAM-API utilizando React.js.
 Api utilizada: https://developer.edamam.com/
 
+#Imagens do Projeto
+![img1](https://user-images.githubusercontent.com/45675758/114653121-b4bd7800-9cbd-11eb-857a-f0f451583c3e.jpg)
+![img2](https://user-images.githubusercontent.com/45675758/114653135-bd15b300-9cbd-11eb-83c2-998f91e23de3.jpg)
+
 
 # Scripts Disponíveis
 
