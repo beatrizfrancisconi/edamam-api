@@ -1,8 +1,8 @@
 Projeto simples onde consiste em consumir a EDAMAM-API utilizando React.js.
+Api utilizada: https://developer.edamam.com/
 
 
-
-# SCRIPTS QUE VOCÊ PODE USAR
+# Scripts Disponíveis
 
 ### `yarn test`
 
